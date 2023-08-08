@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm <a href="https://koustavsaha11.netlify.app/" rel="nofollow"><strong>KOUSTAV SAHA</strong></a>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%"> I'm <a href="https://koustavsaha11.netlify.app/" rel="nofollow"><strong>KOUSTAV SAHA</strong></a>
 
 
 
