@@ -43,7 +43,7 @@
  <a href="https://github.com/k0ustav/Chat-app.git"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=k0ustav&repo=Chat-app&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/k0ustav/todolist.git"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=k0ustav&repo=todolist&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/k0ustav/Drum-Kit.git"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=k0ustav&repo=Drum-Kit&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
-<!--   <a href="https://github.com/belelaritra/Neumorphic_Calculator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Neumorphic_Calculator&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a> -->
+
  </p>
     </details>
 
@@ -62,9 +62,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=k0ustav&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+<!--### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=k0ustav&icon=0&color=0)](https://visitcount.itsvg.in)
 
