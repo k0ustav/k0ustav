@@ -1,6 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style=" width:4%; display:inline-block; " data-target="animated-image.originalImage"> I'm <a href="https://koustavsaha11.netlify.app/" rel="nofollow"><strong>KOUSTAV SAHA</strong></a></h1>
+<h1 align="center">Hi  I'm <a href="https://koustavsaha11.netlify.app/" rel="nofollow"><strong>KOUSTAV SAHA</strong></a></h1>
+
+<img align="right" src="https://camo.githubusercontent.com/6d46bf8a2c229927a653c140e01c9093d11a02ee92eb7226c4c71d042d412dd6/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6d457a6332566b4d7a493165584e344f477071636e4672597a51304d6a4670634768684f585a7562546876636d686f4f476c7959695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f6b52654b6366727331596f546d74324151742f67697068792e676966" data-canonical-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzc2VkMzI1eXN4OGpqcnFrYzQ0MjFpcGhhOXZubThvcmhoOGlyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kReKcfrs1YoTmt2AQt/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 # 💫 About Me:
 <img src="https://camo.githubusercontent.com/dc77dfb169ce152c1dac9b632a420228620b1bd63d200cd2b5a721eecfa640bb/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d2532333744464530322677696474683d363030266865696768743d3430266c696e65733d5075727375696e672b422e546563682b696e2b436f6d70757465722b536369656e63652b2532362b456e67696e656572696e672532302532303b50617373696f6e6174652b61626f75742b6265636f6d696e672b612b536f6674776172652b456e67696e656572" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%237DFE02&amp;width=600&amp;height=40&amp;lines=Pursuing+B.Tech+in+Computer+Science+%26+Engineering%20%20;Passionate+about+becoming+a+Software+Engineer" style="max-width: 100%;">
+
+
 
 
 ## 🌐 Socials:
