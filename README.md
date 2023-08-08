@@ -35,7 +35,20 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-# 📊 GitHub Stats:
+
+ <details open>
+  <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="3%"><b>My Top Repos :</b></summary>
+<br>
+<p align="left">
+ <a href="https://github.com/k0ustav/Chat-app.git"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=k0ustav&repo=Chat-app&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/k0ustav/todolist.git"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=k0ustav&repo=todolist&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/k0ustav/Drum-Kit.git"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=k0ustav&repo=Drum-Kit&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+<!--   <a href="https://github.com/belelaritra/Neumorphic_Calculator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=belelaritra&repo=Neumorphic_Calculator&theme=react&bg_color=000000&title_color=7DFE02&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a> -->
+ </p>
+    </details>
+
+    
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=k0ustav&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=k0ustav&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=k0ustav&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
