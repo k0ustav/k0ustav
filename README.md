@@ -1,6 +1,6 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%"> I'm <a href="https://koustavsaha11.netlify.app/" rel="nofollow"><strong>KOUSTAV SAHA</strong></a>
+<h1 align="left">Hi 👋 I'm <a href="https://koustavsaha11.netlify.app/" rel="nofollow"><strong>KOUSTAV SAHA</strong></a>
 
-
+<!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="👋">-->
 
 <img align="right" src="https://camo.githubusercontent.com/6d46bf8a2c229927a653c140e01c9093d11a02ee92eb7226c4c71d042d412dd6/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6d457a6332566b4d7a493165584e344f477071636e4672597a51304d6a4670634768684f585a7562546876636d686f4f476c7959695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f6b52654b6366727331596f546d74324151742f67697068792e676966" data-canonical-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEzc2VkMzI1eXN4OGpqcnFrYzQ0MjFpcGhhOXZubThvcmhoOGlyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kReKcfrs1YoTmt2AQt/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
@@ -11,11 +11,7 @@
 
 
 ## 🌐 Socials:
-
-<a href="https://linkedin.com/in/koustav-saha-a4a129231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koustav-saha-a4a129231" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/koustav11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="koustav11" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sahakoustav11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sahakoustav11" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sahakoustav11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahakoustav11" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/koustav-saha-a4a129231) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -34,7 +30,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 
  <details open>
   <summary><img src="https://hackernoon.com/images/null-xs22itd.gif" width="3%"><b>My Top Repos :</b></summary>
@@ -51,7 +49,8 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=k0ustav&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=k0ustav&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k0ustav&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=k0ustav&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=k0ustav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
